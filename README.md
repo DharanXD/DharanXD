@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharan
 - 👀 I’m interested in ...AUTOMATION 
-- 🌱 I’m currently learning ...PYTHON,DaVinchi resolve
+- 🌱 I’m currently learning ...PYTHON
 - 💞️ I’m looking to collaborate on ... python projects
 - 📫 How to reach me ... ndharanmohan@gmail.com
 - 😄 Pronouns: ...HE/HIM
